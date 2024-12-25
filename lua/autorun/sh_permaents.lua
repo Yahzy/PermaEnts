@@ -1,0 +1,1 @@
+permaents = permaents or {}
