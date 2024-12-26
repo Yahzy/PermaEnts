@@ -1,8 +1,8 @@
 # Garry's Mod Permanent Entities
 
 ## 📙Description:
-Discover an essential gmod addon for managing permanent entities.\
-This simple yet powerful system gives you full control over your entities, with an interactive menu and a unique ID system.\
+Discover an essential gmod addon for managing permanent entities.
+This simple yet powerful system gives you full control over your entities, with an interactive menu and a unique ID system.
 Perfect for server creators looking to streamline entity management while optimizing game performance.
 
 ## 🚀Features:
